@@ -1,0 +1,18 @@
+living room
+You are in a living room. The furniture is light wood and there is a big window letting the sun shine in.
+#
+bedroom
+You are in a nice bedroom. There is a mirror on the wall and a box in the corner of the bedroom. You also see a door to the attic above you.
+#
+office
+You are in an office. The office is pretty boring there is only a desk.
+#
+attic
+You are in an empty attic. All you can see are cobwebs everywhere. 
+#
+master bedroom
+You are in a big master bedroom. There is a king sized bed in the center of the room and a mirror in the corner. There is a door on the east wall of this bedroom.
+#
+master bathroom
+You are in a nice bathroom. It is very well decorated. There is floral wallpaper and the lighting is bright. You also feel a rug beneath you.
+#
